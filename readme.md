@@ -1,4 +1,4 @@
-# Build end-to-end CI/CD capabilities directly in GitHub
+# Build end-to-end CI/CD capabilities directly in GitHub Chase test stuff
 
 With GitHub Actions, you can create and set up workflows in your repository to build, test, and deploy your code to Azure. This webinar training series is for teams looking to build end-to-end continuous integration (CI) and continuous deployment (CD) capabilities directly in their GitHub repositories.
 
